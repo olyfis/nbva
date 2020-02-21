@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/unijdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/SF_libs/json-20180813.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/POI/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/javax.servlet.jsp-2.2.0.v201112011158.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/POI/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/POI/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/Poi_New/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/Poi_New/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/Poi_New/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/Poi_New/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/Poi_New/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/olyutil.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
